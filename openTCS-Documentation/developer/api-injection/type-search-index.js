@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.opentcs.customizations","l":"ConfigurableInjectionModule"},{"p":"org.opentcs.customizations.controlcenter","l":"ControlCenterInjectionModule"},{"p":"org.opentcs.customizations.kernel","l":"KernelInjectionModule"},{"p":"org.opentcs.customizations.plantoverview","l":"PlantOverviewInjectionModule"}]
